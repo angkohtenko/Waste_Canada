@@ -13,6 +13,8 @@ During the data cleaning step, I created an "Unknown source" category and assign
 ## Visualisation
 I exported clean data to [waste_can.csv](/waste_can.csv) file and used it as a data source for [Tableau dashboard](https://public.tableau.com/app/profile/angela6018/viz/WasteDiversionCanada/WasteDiversion).
 
+![dashboard screenshot](/Assets/Dashboard.png)
+
 ## Conclusion
 In 2020, there were 352 tonnes more diverted waste than in 2018. 52% of this waste came from residential sources, 42% from non-residential sources, and 10% had an unknown source.
 
